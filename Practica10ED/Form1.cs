@@ -16,5 +16,6 @@ namespace Practica10ED
         {
             InitializeComponent();
         }
+       
     }
 }

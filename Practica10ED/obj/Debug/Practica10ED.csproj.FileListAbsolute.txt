@@ -1,0 +1,11 @@
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\bin\Debug\Practica10ED.exe.config
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\bin\Debug\Practica10ED.exe
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\bin\Debug\Practica10ED.pdb
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\obj\Debug\Practica10ED.csproj.AssemblyReference.cache
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\obj\Debug\Practica10ED.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\obj\Debug\Practica10ED.Form1.resources
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\obj\Debug\Practica10ED.Properties.Resources.resources
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\obj\Debug\Practica10ED.csproj.GenerateResource.cache
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\obj\Debug\Practica10ED.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\obj\Debug\Practica10ED.exe
+C:\Users\usuario\Source\Repos\LucasRZarate\practica10ED\Practica10ED\obj\Debug\Practica10ED.pdb
