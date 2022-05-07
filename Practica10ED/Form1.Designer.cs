@@ -74,7 +74,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(52, 13);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Telefono:";
+            this.label3.Text = "Movil:";
             // 
             // label4
             // 
